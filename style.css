@@ -1,8 +1,15 @@
 html, body {
     background-color: antiquewhite;
     text-align: center;
+    cursor: url("/dick.png"), url("https://sun9-49.userapi.com/impg/yBczxg6_uRdE6ey-EVaI2FRpNGuGSfnExcKKQA/iau0znm0Idk.jpg?size=32x32&quality=96&sign=b8868e62e4bc5423c49cf40f7fb8bbbc&type=album"), default;
 }
 
 div {
     margin-top: 40%;
 }
+
+/*.dickClass {*/
+/*    cursor: url("/dick.png"), url("https://sun9-49.userapi.com/impg/yBczxg6_uRdE6ey-EVaI2FRpNGuGSfnExcKKQA/iau0znm0Idk.jpg?size=32x32&quality=96&sign=b8868e62e4bc5423c49cf40f7fb8bbbc&type=album"), default;*/
+/*    height: 100vh;*/
+/*    width: 100%;*/
+/*}*/
